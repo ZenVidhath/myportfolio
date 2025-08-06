@@ -61,7 +61,7 @@ const Contact = () => {
             <motion.div variants={itemVariants} className="flex items-center space-x-4 mb-4">
               <FaEnvelope size={24} className="text-blue-400" />
               <a href="mailto:your.email@example.com" className="text-gray-300 hover:text-white text-lg transition-colors">
-                your.email@example.com
+                pejavarvidhath@gmail.com
               </a>
             </motion.div>
 
