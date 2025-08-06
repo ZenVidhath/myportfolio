@@ -145,8 +145,8 @@ const projectsData = [
         // placeholderImage6, // Replace with actual screenshot 2
         // placeholderImage7  // Replace with actual screenshot 3
     ],
-    demoLink: 'https://your-portfolio-live-demo.vercel.app', // Replace with your live portfolio URL
-    githubLink: 'https://github.com/yourusername/your-portfolio-repo', // Replace with your portfolio's GitHub repo
+    demoLink: 'https://myportfolio-pied-xi.vercel.app/', // Replace with your live portfolio URL
+    githubLink: 'https://github.com/ZenVidhath/myportfolio', // Replace with your portfolio's GitHub repo
     category: 'frontend', // Or 'fullstack' if it includes a custom backend for contact form etc.
     techStack: [
         'React.js',
@@ -198,7 +198,7 @@ const Projects = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, type: 'spring', stiffness: 100 }}
         >
-          My Creative Works
+          My Projects
         </motion.h2>
 
         {/* Filter Buttons */}
