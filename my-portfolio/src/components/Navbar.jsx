@@ -31,7 +31,7 @@ const Navbar = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.1 }}
       >
-        Your Name
+        My Portfolio
       </motion.a>
 
       {/* Desktop Navigation Links */}
